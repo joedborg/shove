@@ -1,0 +1,1 @@
+pychromecast>=0.7.3
